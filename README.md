@@ -1,3 +1,6 @@
+For Fire TV Lite without root go to https://github.com/0815hoffi/FireTV-2k-4k-debloat/tree/main/FireTVLite
+
+
 !!! All Data will be Lost !!!
 !!! No Access to Search and Amazon Store !!!
 !!! Amazon Launcher will be replaced with Wolf Launcher !!!
