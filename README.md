@@ -8,7 +8,7 @@ For Fire TV Lite without root go to https://github.com/0815hoffi/FireTV-2k-4k-de
 
 1, Download All.
 
-2, Extract /Firmware/Firmware.zip and Copy ftvs2k-5.2.7.4.zip and ftvs4kdebloated_6.2.7.3_V1.zip to Root Folder.
+2, Extract /Firmware/Firmware.zip and Copy ftvs2k-5.2.7.6.zip and ftvs4k_6.2.7.6.zip to Root Folder.
 
 3, Enable ADB Debugging in FireTV Setting.
 
